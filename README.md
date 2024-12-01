@@ -19,7 +19,7 @@ A simple Streamlit app template for you to modify!
    ```
 # Тема проекту: Spotify Most Streamed Songs
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-## Посилання на візуалізацію питань поставлених у проекті. https://da1-25-09-2024-les1.streamlit.app/
+## Посилання на візуалізацію питань поставлених у проекті. https://www.datacamp.com/datalab/w/3025aca2-82d5-4ec1-bf5e-31e6f4c6be5a/edit
 # Мета:
 ## Проаналізувати вплив різних факторів на успішність (кількість прослуховування) музикальних композицій.
 # Основні питання:
