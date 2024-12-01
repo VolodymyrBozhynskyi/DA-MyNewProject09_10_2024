@@ -1,22 +1,4 @@
-# 🎈 Blank app template
 
-A simple Streamlit app template for you to modify!
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
 # Тема проекту: Spotify Most Streamed Songs
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
 ## Посилання на візуалізацію питань поставлених у проекті. https://www.datacamp.com/datalab/w/3025aca2-82d5-4ec1-bf5e-31e6f4c6be5a/edit
